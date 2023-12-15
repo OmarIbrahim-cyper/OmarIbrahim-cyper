@@ -1,4 +1,4 @@
-![logo] (https://github.com/OmarIbrahim-cyper/OmarIbrahim-cyper/blob/main/ec18fe47393655.5878dc40e26b6.gif)
+![logo] (https://github.com/OmarIbrahim-cyper/OmarIbrahim-cyper/blob/main/ec18fe47393655.5878dc40e26b6.png)
 <h1 align="center">Hi 👋, I'm Omar Ibrahim</h1>
 <h3 align="center">Cyber Security Engineer | Ethical Hacker</h3>
 
