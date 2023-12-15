@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Ibrahim</h1>
-<h3 align="center">Cyber Security Engineer</h3>
+<h3 align="center">Cyber Security Engineer | Ethical Hacker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaribrahim-cyper&label=Profile%20views&color=b40e0e&style=flat" alt="omaribrahim-cyper" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omaribrahim-cyper" alt="omaribrahim-cyper" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmarIbrahim-cyper](https://github.com/OmarIbrahim-cyper)
 
@@ -13,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1K60DHq0u2hvi6FKC__NWZf4f2i788dTN/view?usp=sharing](https://drive.google.com/file/d/1K60DHq0u2hvi6FKC__NWZf4f2i788dTN/view?usp=sharing)
 
-- ⚡ Fun fact **Am Black Hat**
+- ⚡ Fun fact **I operate in the realm of the White Hat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
