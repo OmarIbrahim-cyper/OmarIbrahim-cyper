@@ -1,6 +1,6 @@
 # \[C0d3M4st3r\]
 ## Dark Hacker | Digital Phantom | Watch Dogs 2 Visionary
-![Watch Dogs 2 Terminal]([link-to-watchdogs2-terminal-image.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F47393655%2FWatch_Dogs-2-DEDSEC-Video%2Fmodules%2F284588869&psig=AOvVaw1GNmWg56BJhXsI-RkPTwwX&ust=1702751078548000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC2x5yIkoMDFQAAAAAdAAAAABAQ)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F47393655%2FWatch_Dogs-2-DEDSEC-Video%2Fmodules%2F284588869&psig=AOvVaw1GNmWg56BJhXsI-RkPTwwX&ust=1702751078548000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC2x5yIkoMDFQAAAAAdAAAAABAQ)
+![Watch Dogs 2 Terminal]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F47393655%2FWatch_Dogs-2-DEDSEC-Video%2Fmodules%2F284588869&psig=AOvVaw1GNmWg56BJhXsI-RkPTwwX&ust=1702751078548000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC2x5yIkoMDFQAAAAAdAAAAABAQ]
 🕶️ Masked Identity: Encrypting...
 📟 System Status: Infiltration Successful
 ### ⚙️ Cybernetic Arsenal
