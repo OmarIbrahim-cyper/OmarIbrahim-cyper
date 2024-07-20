@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **omarelsayedofficial1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K60DHq0u2hvi6FKC__NWZf4f2i788dTN/view?usp=sharing](https://drive.google.com/file/d/1K60DHq0u2hvi6FKC__NWZf4f2i788dTN/view?usp=sharing)
+- 📄 Know about my experiences ['')
 
 - ⚡ Fun fact **I operate in the realm of the White Hat**
 
